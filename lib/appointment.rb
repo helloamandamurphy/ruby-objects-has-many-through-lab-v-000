@@ -13,7 +13,6 @@ class Appointment
   
   def self.all
     @@all
-    binding.pry
   end
   
   def patient
