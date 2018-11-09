@@ -18,6 +18,5 @@ class Appointment
   
   def doctor
   end
-  
-  def 
+
 end 
