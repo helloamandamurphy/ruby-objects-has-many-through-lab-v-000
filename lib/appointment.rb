@@ -15,10 +15,10 @@ class Appointment
   end
   
   def patient
+    self.patient
   end 
   
   def doctor
+    self.doctor
   end
-
 end 
-
