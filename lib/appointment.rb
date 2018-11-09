@@ -12,13 +12,14 @@ class Appointment
   
   def self.all
     @@all
+    binding.pry
   end
   
   def patient
-    self.patient
+    @patient
   end 
   
   def doctor
-    self.doctor
+    @doctor
   end
 end 
