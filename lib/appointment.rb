@@ -19,7 +19,7 @@ class Appointment
     #Appointment.all.select {|appointment| appointment.doctor == self}
   #end 
   
-  def doctor
-    @doctor
-  end
+  #def doctor
+   # @doctor
+ # end
 end 
